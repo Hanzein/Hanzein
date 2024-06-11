@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Flutter and Cloud**
 
- ⚡ Quote **Quality is a product of a conflict between programmers and testers. **
+ ⚡ Quote : **Quality is a product of a conflict between programmers and testers.**
 
  </div>
  
