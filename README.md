@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Farhan+Adi+Nugraha!;" />
 </h1>
 
-<h3 align="center">A Mobile and UI/UX Enthusiast from Indonesian🇮🇩 </h3>
+<h3 align="center">A Lowcode Developer and Fullstack Mobile Developer Enthusiast from Indonesian🇮🇩 </h3>
 
 <br/>
 
